@@ -29,4 +29,4 @@ I am an enthusiastic Software Developer and Explorer at Oracle, actively looking
 
 - Active Player in Chess.com ♟️
 
-- I write personal and Tech blogs and working on creating a YouTube Channel ▶️
+- I write personal and Tech blogs and currently working on creating a YouTube Channel ▶️
