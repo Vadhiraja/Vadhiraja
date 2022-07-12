@@ -12,7 +12,7 @@
 - 💻 Checkout my [Portfolio Website](https://vrpk07.wixsite.com/vadhirajashome)
 
 ## Hello there 👀🙋‍♂️  !!
-I am an enthusiastic Software Developer and Explorer at Oracle, actively looking for interesting stuff online. My area of work includes deploying policies and services, DevOps and Backend Engineering.
+I am an enthusiastic Software Developer and Explorer , actively looking for interesting stuff online. My area of work includes deploying policies and services, DevOps and Backend Engineering. I love creating personal apps to make daily life easier and fun!
 
 ###
 
