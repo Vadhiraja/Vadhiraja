@@ -24,7 +24,7 @@ I am an enthusiastic Software Developer and Explorer , actively looking for inte
 
 📝 Techologies Involved : Bash, Java, Terraform, GoLang, Docker and Kubernetes.
 
-## Free Time Things🆓🆓🆓
+## When I'm not tied to my desk:
 - I manage to play the piano 🎹 decently
 
 - Active Player in Chess.com ♟️
